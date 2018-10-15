@@ -1,0 +1,15 @@
+ELABORAZIONE DOPO 15 MOSSE
+
+   1 2 3 4 5 6 7 8 9 10
+ 1|B|B|C|A|A|C|A|B|C|C|
+ 2|A|C|C|B|C|C|B|B|A|B|
+ 3|B|B|A|A|B|A|B|C|A|B|
+ 4|C|B|B|A|B|A|C|B|B|C|
+ 5|B|A|A|C|C|B|A|A|C|B|
+ 6|B|B|C|B|A|A|C|B|C|B|
+ 7|A|B|A|B|C|C|A|B|A|C|
+ 8|B|C|C|A|B|B|C|C|A|B|
+ 9|C|B|A|C|C|A|B|A|B|C|
+10|B|B|C|A|A|C|B|A|A|B|
+
+PUNTEGGIO OTTENUTO: 2956
